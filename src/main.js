@@ -1,4 +1,5 @@
 'use strict';
+
 const WebSocket = require('ws');
 const url = require('url');
 const LifeGameVirtualDom = require('../lib/LifeGameVirtualDom.js');
